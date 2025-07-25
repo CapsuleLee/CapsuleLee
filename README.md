@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso05109)](https://solved.ac/sso05109)
 
 
 - 🔭 I’m currently working on ...
