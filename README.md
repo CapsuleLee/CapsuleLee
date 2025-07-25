@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso05109)](https://solved.ac/sso05109)
 
 
 - 🔭 I’m currently working on ...
@@ -16,6 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso05109)](https://solved.ac/sso05109)
+
+
+
 ## 💻 기술 스택
 
 - 주요 언어: C/C++, Python
@@ -26,4 +32,3 @@ Here are some ideas to get you started:
 
 - HL만도 IVS4기
 - 소프트웨어 검증 관련 자격 준비: ISTQB
--->
