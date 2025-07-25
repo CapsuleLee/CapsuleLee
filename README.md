@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sso05109})](https://solved.ac/{sso05109})
+(http://mazassumnida.wtf/api/v2/generate_badge?boj={sso05109})](https://solved.ac/{sso05109})
 
 
 - 🔭 I’m currently working on ...
