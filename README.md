@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 💻 기술 스택
 
 - 주요 언어: C/C++, Python
-- 경험: Matlab, Simulink, Iso26262 실습, A-SPICE 실습, Jenkins 실습, CANoe
+- 경험: Matlab, Simulink, Iso26262, A-SPICE , Jenkins , CANoe
 - 자격증: ISTQB CTFL
 
 
