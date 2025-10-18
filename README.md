@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 💻 기술 스택
 
-- 주요 언어: C/C++, Python,Java, Capl
+- 주요 언어: C/C++, Python, Java, Capl
 - 프레임 워크: Spring Boot, Django, Flask
 - 경험: Matlab, Simulink, Iso26262, A-SPICE , Jenkins , CANoe, VectorCast, Polyspace
 - 프로젝트: BootLoader 설계, 자동화 스크립트 BlackBox Testing
