@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 📚 현재 학습 중
 
-- 경북대학교 데이터 사이언스 대학원 석사
+- 빅 데이터 분석기사, 정보처리기사
   
 
 ## 💻 기술 스택
