@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!--
 ## 📚 현재 학습 중
 
-- 빅 데이터 분석기사, 정보처리기사
+- 빅 데이터 분석기사(필기)
+- 정보처리기사(실기)
   
 
 ## 💻 기술 스택
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - 프로젝트: BootLoader 설계, 자동화 스크립트 BlackBox Testing
 - 자격증: ISTQB CTFL
 <!-- - 교육 이수: HL만도 IVS4기 -->
- -->
 
  ## 📚 Learning & Certifications
 > **지속적인 역량 강화를 위해 다음 자격 및 지식을 학습 중입니다.**
