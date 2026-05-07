@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <!--
 ## 📚 현재 학습 중
 
-- 빅 데이터 분석기사(필기)
 - 정보처리기사(실기)
   
 
