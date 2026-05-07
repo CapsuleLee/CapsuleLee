@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  ## 📚 Learning & Certifications
 > **지속적인 역량 강화를 위해 다음 자격 및 지식을 학습 중입니다.**
 
-* **Preparing:** 📊 빅데이터분석기사, 💻 정보처리기사
+* **Preparing:** 💻 정보처리기사
 * **Certified:** 🎖️ **ISTQB CTFL** (Foundation Level)
 
 ---
